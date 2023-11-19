@@ -1,4 +1,4 @@
-# [Your Project Title Here]
+# [Predicting metallicity from DFT-Analyzed Compounds]
 
 ## Repository Link
 
