@@ -1,8 +1,8 @@
-# [Predicting metallicity from DFT-Analyzed Compounds]
+# Predicting metallicity from DFT-Analyzed Compounds
 
 ## Repository Link
 
-[https://github.com/your_username/your_project_name]
+https://github.com/your_username/your_project_name
 
 ## Description
 
